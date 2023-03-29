@@ -1,0 +1,33 @@
+
+   @font-face {
+	font-family: 'nassim' ;
+	src:  url('../fonts/nassim.woff') format('woff');
+   }  
+   
+   @font-face {
+	font-family: 'FiraSans-UltraLight' ;
+	src:  url('../fonts/FiraSans-UltraLight.ttf') format('truetype');
+   }  
+   
+   @font-face {
+	font-family: 'FiraSans-Light' ;
+	src:  url('../fonts/FiraSans-Light.ttf') format('truetype');
+   }  
+
+
+   @font-face {
+	font-family: 'FiraSans-Medium' ;
+	src:  url('../fonts/FiraSans-Medium.ttf') format('truetype');
+   }  
+
+
+   @font-face {
+	font-family: 'FiraSans-Regular' ;
+	src:  url('../fonts/FiraSans-Regular.ttf') format('truetype');
+   }  
+
+
+   @font-face {
+	font-family: 'FiraSans-SemiBold' ;
+	src:  url('../fonts/FiraSans-SemiBold.ttf') format('truetype');
+   }  
